@@ -135,7 +135,7 @@ The use of **Big Five Personality Model** enables a psychological foundation for
 
 Future work can include expanding to real psychological datasets, integrating graph-based embeddings for deeper analysis, and fine-tuning LLMs for more consistent personality interpretation.
 
-### 🌿 Credits
+## 10. Credits
 
 1. **Nibroos Haryanto** — System and Prompt Engineer  
 2. **Gemini** — [View Chat](https://gemini.google.com/share/d3704085ccc6)  
@@ -148,3 +148,4 @@ Future work can include expanding to real psychological datasets, integrating gr
 💚 **Crafted with care by Nibroos, GPT & Gemini** 💚
 
 </div>
+
