@@ -88,8 +88,8 @@ We don’t just vibe, we verify. Using the classics from info extraction:
 ## 🧩 Folder Guide
 ```
 📁 Knowledge-Graph-4-Personality-Traits/
- ├── notebook.ipynb        # Main workflow
- ├── report.md             # Formal project write-up
- ├── README.md             # You’re here 💁‍♀️              
- └── data/example.txt      # Generated KG triples
+ ├── data/example.txt            # Generated KG triples
+ ├── Knowledge-Graph.ipynb       # Main workflow
+ ├── report.md                   # Formal project write-up
+ └── README.md                   # You’re here 💁‍♀️              
 ```
