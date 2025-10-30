@@ -89,7 +89,7 @@ We don’t just vibe, we verify. Using the classics from info extraction:
 ```
 📁 Knowledge-Graph-4-Personality-Traits/
  ├── data/example.txt            # Generated KG triples
- ├── Knowledge-Graph.ipynb       # Main workflow
+ ├── notebook.ipynb              # Main workflow
  ├── report.md                   # Formal project write-up
  └── README.md                   # You’re here 💁‍♀️              
 ```
